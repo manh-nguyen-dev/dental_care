@@ -1,0 +1,1 @@
+enum NavigationEnum { dashboard, services, center, booking, rewards }
